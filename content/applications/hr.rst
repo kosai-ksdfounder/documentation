@@ -12,3 +12,4 @@ Human resources
    hr/payroll
    hr/recruitment
    hr/referrals
+   hr/frontdesk
